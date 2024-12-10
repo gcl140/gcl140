@@ -1,7 +1,6 @@
-- 👋 Hi, I’m gift
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on that
+- 👋 Hi, I’m Gift
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ...
 - 📫 How to reach me gftinity01@gmail.com 
 
 <!---
