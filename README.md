@@ -119,8 +119,7 @@
 ### 📫 Let's Connect & Create
 
 - **📧 Email:** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
-- **💼 LinkedIn:** [Let's connect!](https://linkedin.com/in/your-profile) *(Add your link)*
-- **🐦 Twitter:** [@yourhandle](https://twitter.com/yourhandle) *(Add your link)*
+- **💼 LinkedIn:** [Let's connect!](https://www.linkedin.com/in/giftchristian)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
