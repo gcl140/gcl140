@@ -1,50 +1,84 @@
-<h1 align="center">Hey, I'm Gift 🚀</h1>
-<h3 align="center">A curious and passionate developer building for the web, one line of code at a time.</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Always+Learning;Problem+Solver" alt="Typing SVG" /></a>
-</p>
+# Gift C. Christian
+Hanover, NH ∙ +1 (603)-322-0818 ∙ christiangift44@gmail.com  
+[LinkedIn] | [Personal Website] | [GitHub]
 
 ---
 
-### 👨‍💻 About Me
+## Education
 
-- 💡 **Interested in:** Full-Stack Web Development, UI/UX, and creating seamless user experiences.
-- 🎯 **Currently Learning:** I'm in the mode of "learning anything" that helps me build better, but currently focused on **React Ecosystem & Backend with Node.js.**
-- 🥅 **Goals:** Contribute to more open-source projects and land a role where I can make a real impact.
-- 📧 **Email me at:** **[gftinity01@gmail.com](mailto:gftinity01@gmail.com)**
-- ⚡ **Fun Fact:** I can learn anything if you give me a good project idea and enough coffee.
+**Dartmouth College**, Hanover, NH  
+*Bachelor of Arts in Computer Science* | Expected June 2029  
+*GPA: 4.0/4.0*
 
----
+**Relevant Coursework:** Object-Oriented Programming, Data Structures and Algorithms, Discrete Mathematics, Calculus III, Computer Architecture
 
-### 🛠️ My Toolkit
+**Leadership & Activities:** Colorstack Fellow, Codepath Tech Fellow, Dartmouth African Students Association, DALI Lab Mini-Series Participant, First Generation Office Mentor, Evergreen AI Research Project Contributor
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Ilboru High School**, Arusha, Tanzania  
+*High School Diploma* | June 2023  
+*GPA: 4.0/4.0 | SAT: 1510*
 
-**Tools & Others:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-*(Pro-Tip: As you learn new technologies like React, Python, etc., add their badges here!)*
+**Achievements:** Top 3 finishes in 3 National Hackathons, STEM Club General Secretary
 
 ---
 
-### 📊 This Week I Spent My Time On
+## Technical Experience
 
-<!-- This is a placeholder for a cool stats widget. You can generate one at https://github.com/anuraghazra/github-readme-stats -->
-<!--
-[![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcl140&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+**Software Development Intern** | *North and Beyond Heights*, Dar es Salaam, Tanzania  
+*July 2025 – September 2025*
+
+- Engineered a custom Django content management system with role-based authentication, eliminating third-party dependencies and reducing operational costs by 70%
+- Implemented responsive frontend components using Tailwind CSS, streamlining content publishing workflow and decreasing update time by 70%
+- Orchestrated deployment on cPanel with MariaDB integration, SSL configuration, and automated backups, maintaining 99%+ uptime for 20+ weekly content updates
+
+**Software Development Intern** | *Tanzania Students' Achievement Foundation*, Dar es Salaam, Tanzania  
+*December 2024 – July 2025*
+
+- Architected a scalable Django admissions portal supporting 300+ applicants with secure role-based authentication and CSRF protection
+- Developed HTMX-powered staff dashboard with server-side rendering, increasing review throughput by 60% for 20+ reviewers
+- Optimized document management workflow and deployed on cPanel with MariaDB for reliable, secure hosting across multiple admission cycles
+
+**Software Development Freelancer** | *Being That Guy*, Arusha, Tanzania  
+*April 2025 – June 2025*
+
+- Built full-stack e-commerce platform using Django REST Framework with PostgreSQL backend and real-time order tracking
+- Designed responsive storefront with Tailwind CSS, serving 50+ active users and processing 30+ monthly orders
+- Implemented automated CI/CD pipeline using GitHub Actions to Oracle Cloud, reducing deployment time by 60% with zero manual intervention
 
 ---
 
-### 📫 Let's Connect
+## Technical Projects
 
-- **Email:** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
+**ForumAbroad** | *Django, Google Vertex AI, MariaDB, Tailwind CSS, HTMX, cPanel*
+- Engineered a Reddit-inspired discussion platform for international students using recursive relational database schema with self-referencing foreign keys
+- Optimized query performance using `select_related` and `prefetch_related`, implementing scalable tree traversal algorithms for infinite nested comment threads
+- Integrated Google Vertex AI to automatically answer repetitive questions, reducing duplicate queries by 50% and increasing user engagement by 40% across 30+ active users
+- Deployed on cPanel with secure, scalable infrastructure supporting multi-media content
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
-</p>
+**Edupayy** | *Django, Stripe, PostgreSQL, Tailwind CSS, Celery, Redis*
+- Developed comprehensive school payment management system with custom authentication backends and role-based access control
+- Designed relational models maintaining strict data isolation between students, parents, and accountants while enabling cross-account relationships
+- Integrated Stripe payment processing with webhook-based invoice updates and built dynamic dashboards for real-time balance tracking
+- Implemented Celery with Redis for automated invoice reminders, reducing manual follow-up by 40% and ensuring timely payments
+
+**Maghettoni** | *Django, Google Maps APIs, SQLite3, Tailwind CSS, NumPy*
+- Created student housing platform featuring Google Maps-integrated location search and smart distance filtering algorithms
+- Developed amenities comparison system and streamlined booking process, reducing housing discovery time by 50%
+- Implemented responsive design with Tailwind CSS for optimal cross-device user experience
+
+---
+
+## Skills & Interests
+
+**Technical Skills**
+- **Languages:** Python, Java, C, JavaScript, TypeScript, SQL, HTML/CSS
+- **Frameworks & Libraries:** Django, React, Next.js, Node.js, Tailwind CSS, Flutter, REST APIs
+- **Developer Tools:** Git, GitHub Actions, Docker, AWS, Linux, VS Code, Figma, PyCharm
+- **Databases:** PostgreSQL, SQLite, MariaDB, Redis
+
+**Languages**
+- **Fluent:** English, Swahili, Haya
+- **Basic Proficiency:** French
+
+**Interests**
+Soccer, Afrobeats & Amapiano Music Production, Board Games, Skiing, Anime, Technology Innovation in Emerging Markets
