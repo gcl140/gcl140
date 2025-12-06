@@ -23,25 +23,13 @@
 **Tech Stack:** `Django` `Python` `Google Vertex AI` `MariaDB` `Tailwind CSS` `HTMX` `cPanel`
 
 > Built a full-stack forum platform where students connect and share study abroad experiences
-
-- **🧠 Smart Architecture:** Engineered recursive comment system with self-referencing foreign keys for infinite nested replies
-- **⚡ Performance Optimized:** Used `select_related()` and `prefetch_related()` to slash database queries by 60%
-- **🤖 AI-Powered Assistant:** Integrated Google Vertex AI to auto-answer repetitive questions, cutting down duplicate posts by 50%
-- **🎨 Engaging UX:** Created smooth, dynamic interfaces with HTMX that boosted user engagement by 40% across 30+ active users
-- **🚀 Production Ready:** Deployed on cPanel with secure, scalable infrastructure handling real traffic
-
 ---
 
 #### 💸 Edupayy | *School fees management made simple*
 **Tech Stack:** `Django` `Stripe` `PostgreSQL` `Tailwind CSS` `Celery` `Redis` `REST APIs`
 
 > Revolutionized school payment systems with automated fee management
-
-- **🔐 Rock-Solid Security:** Built custom authentication with middleware and decorators for granular Role-Based Access Control
-- **💳 Seamless Payments:** Integrated Stripe with webhook-powered real-time invoice tracking and settlements
-- **👥 Multi-User Ecosystem:** Engineered relational models connecting students → parents → accountants with perfect data isolation
-- **📊 Live Dashboards:** Developed dynamic, real-time balance tracking for all user roles
-- **⏰ Smart Automation:** Implemented Celery + Redis to send automated payment reminders, boosting efficiency by 40%
+osting efficiency by 40%
 
 ---
 
@@ -49,14 +37,8 @@
 **Tech Stack:** `Django` `Google Maps APIs` `SQLite3` `Tailwind CSS` `NumPy` `Geolocation`
 
 > Your go-to platform for student housing discovery and booking
-
-- **🗺️ Location Intelligence:** Leveraged Google Maps API for smart location search and distance-based filtering
-- **🔍 Smart Matching:** Used NumPy for efficient proximity calculations and room recommendations
-- **🎯 Student-First Design:** Built intuitive booking flows that cut housing search time by 50%
-- **🏃‍♂️ Instant Results:** Implemented real-time filtering by distance, price, and amenities
-
 ---
-
+### And many more!!!
 ### 🛠️ Tech Arsenal
 
 **💻 Languages & Frameworks:**
@@ -99,7 +81,7 @@
 ### 🌍 Languages & Interests
 
 **🗣️ Human Languages:**
-- **English** (Fluent) • **Swahili** (Fluent) • **Haya** (Native) • **French** (Conversational)
+- **English** (Fluent) • **Swahili** (Fluent)
 
 **⚡ Passions & Hobbies:**
 - ⚽ Soccer Enthusiast • 🎵 Afrobeats & Amapiano Producer • 🎮 Board Games • ⛷️ Skiing • 🎧 Music Mixing • 🎬 Anime Connoisseur
