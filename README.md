@@ -56,20 +56,12 @@
 ---
 
 
-### 📊 GitHub Stats
-
-This is a placeholder for a cool stats widget. You can generate one at https://github.com/anuraghazra/github-readme-stats -->
-
-[![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcl140&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcl140&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 ### 📫 Let's Connect & Create
 
 - **📧 Email:** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
 - **💼 LinkedIn:** [Let's connect!](https://www.linkedin.com/in/giftchristian)
+- ** Website:** [Visit!](https://gcloo.me/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
