@@ -55,23 +55,14 @@
 
 ---
 
-### 🌍 Languages & Interests
-
-**🗣️ Human Languages:**
-- **English** (Fluent) • **Swahili** (Fluent)
-
-**⚡ Passions & Hobbies:**
-- ⚽ Soccer Enthusiast • 🎵 Afrobeats & Amapiano Producer • 🎮 Board Games • ⛷️ Skiing • 🎧 Music Mixing • 🎬 Anime Connoisseur
-
----
 
 ### 📊 GitHub Stats
 
-<!-- This is a placeholder for a cool stats widget. You can generate one at https://github.com/anuraghazra/github-readme-stats -->
-<!--
+This is a placeholder for a cool stats widget. You can generate one at https://github.com/anuraghazra/github-readme-stats -->
+
 [![Gift's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcl140&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcl140&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ---
 
@@ -86,5 +77,5 @@
 </p>
 
 <p align="center">
-  <i>🚀 Always building, always learning. Let's create something amazing together!</i>
+  <i>🚀!</i>
 </p>
