@@ -9,36 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 💡 **Interested in:** Full-Stack Web Development, AI Integration, Scalable Architecture, and creating seamless user experiences.
-- 🎯 **Currently Learning:** Advanced React Ecosystem, Node.js Backend Development, and Cloud Infrastructure.
 - 🥅 **Goals:** Contribute to impactful open-source projects and build solutions that solve real-world problems.
-- 📧 **Email me at:** **[gftinity01@gmail.com](mailto:gftinity01@gmail.com)**
-- ⚡ **Fun Fact:** I can learn anything if you give me a good project idea and enough coffee. Also fluent in 3.5 languages! 🌍
 
 ---
 
 ### 💼 Featured Projects
 
-#### 🗨️ ForumAbroad | *A mini-Reddit for study abroad discussions*
-**Tech Stack:** `Django` `Python` `Google Vertex AI` `MariaDB` `Tailwind CSS` `HTMX` `cPanel`
-
-> Built a full-stack forum platform where students connect and share study abroad experiences
----
-
-#### 💸 Edupayy | *School fees management made simple*
-**Tech Stack:** `Django` `Stripe` `PostgreSQL` `Tailwind CSS` `Celery` `Redis` `REST APIs`
-
-> Revolutionized school payment systems with automated fee management
-osting efficiency by 40%
-
----
-
-#### 🏠 Maghettoni | *Find your perfect student pad*
-**Tech Stack:** `Django` `Google Maps APIs` `SQLite3` `Tailwind CSS` `NumPy` `Geolocation`
-
-> Your go-to platform for student housing discovery and booking
----
-### And many more!!!
+#### SEE REPOS
 ### 🛠️ Tech Arsenal
 
 **💻 Languages & Frameworks:**
