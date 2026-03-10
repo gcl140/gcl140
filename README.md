@@ -1,15 +1,9 @@
-<h1 align="center">Hey, I'm Gift</h1>
-<h3 align="center">A curious and passionate full-stack developer building for the web, one line of code at a time.</h3>
+<h1 align="center">hi, I'm Gift</h1>
+<h3 align="center">a curious and passionate building for the web, one line of code at a time.</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Integration+Specialist;Problem+Solver;Always+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developer;" alt="Typing SVG" /></a>
 </p>
-
----
-
-### About Me
-
-- **Goals:** Contribute to impactful open-source projects and build solutions that solve real-world problems.
 
 ---
 
@@ -52,9 +46,9 @@
 
 ### Let's Connect & Create
 
-- ** Email:** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
-- ** LinkedIn:** [Let's connect!](https://www.linkedin.com/in/giftchristian)
-- ** Website:** [Visit!](https://gcloo.me/)
+- ** Email: ** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
+- ** LinkedIn: ** [Let's connect!](https://www.linkedin.com/in/giftchristian)
+- ** Website: ** [Visit!](https://gcloo.me/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
