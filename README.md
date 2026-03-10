@@ -1,4 +1,4 @@
-<h1 align="center">hi, I'm Gift</h1>
+<h1 align="center">hi, i'm gift</h1>
 <h3 align="center">a curious and passionate building for the web, one line of code at a time.</h3>
 
 <p align="center">
@@ -6,10 +6,6 @@
 </p>
 
 ---
-
-### Featured Projects
-
-#### SEE REPOS
 ### Tech Arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,9 +42,9 @@
 
 ### Let's Connect & Create
 
-- ** Email: ** [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
-- ** LinkedIn: ** [Let's connect!](https://www.linkedin.com/in/giftchristian)
-- ** Website: ** [Visit!](https://gcloo.me/)
+-  Email: [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
+-  LinkedIn:  [Let's connect!](https://www.linkedin.com/in/giftchristian)
+-  Website:  [Visit!](https://giftchristian.me/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
