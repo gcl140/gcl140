@@ -6,7 +6,7 @@
 </p>
 
 ---
-### Tech Arsenal
+### tech arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,11 +24,11 @@
 
 
 
-### Let's Connect!
+### let's connect!
 
--  Email: [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
--  LinkedIn:  [Let's connect!](https://www.linkedin.com/in/giftchristian)
--  Website:  [Visit!](https://giftchristian.me/)
+-  email: [gftinity01@gmail.com](mailto:gftinity01@gmail.com)
+-  linkedin:  [Let's connect!](https://www.linkedin.com/in/giftchristian)
+-  website:  [Visit!](https://giftchristian.me/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
