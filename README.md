@@ -1,4 +1,4 @@
-hi i'm #Gift
+hi i'm Gift
 
 i build stuff.
 
