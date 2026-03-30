@@ -1,12 +1,12 @@
 <h1 align="center">hi, i'm gift</h1>
-<h3 align="center">a curious and passionate building for the web, one line of code at a time.</h3>
+<h3 align="center">i like to build stuff</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developer;" alt="Typing SVG" /></a>
 </p>
 
 ---
-### tech arsenal
+### tech skillset
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
