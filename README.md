@@ -1,4 +1,4 @@
-hi i'm Gift
+hi, i'm Gift
 
 i build stuff.
 
@@ -6,7 +6,7 @@ Let's connect: [giftchristian.me](https://giftchristian.me) · [linkedin](https:
 
 
 
-python · javascript · java · c · html/css · sqlite · aws · linux
+Tech stack: python · javascript · java · c · html/css · sqlite · aws · linux
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
