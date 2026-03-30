@@ -1,8 +1,8 @@
-# gift christian
+hi i'm # Gift
 
 i build stuff.
 
-Let's connect:[giftchristian.me](https://giftchristian.me) · [linkedin](https://www.linkedin.com/in/giftchristian) · [email](mailto:gftinity01@gmail.com)
+Let's connect: [giftchristian.me](https://giftchristian.me) · [linkedin](https://www.linkedin.com/in/giftchristian) · [email](mailto:gftinity01@gmail.com)
 
 
 
