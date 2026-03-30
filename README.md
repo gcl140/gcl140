@@ -1,6 +1,8 @@
 # gift christian
 
-i build stuff. [giftchristian.me](https://giftchristian.me) · [linkedin](https://www.linkedin.com/in/giftchristian) · [email](mailto:gftinity01@gmail.com)
+i build stuff.
+
+Let's connect:[giftchristian.me](https://giftchristian.me) · [linkedin](https://www.linkedin.com/in/giftchristian) · [email](mailto:gftinity01@gmail.com)
 
 
 
