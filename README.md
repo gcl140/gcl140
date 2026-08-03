@@ -1,4 +1,4 @@
-# gift christian
+# hi, i'm **gift christian**
 
 *computer science and human centered design student at Dartmouth College*
 
