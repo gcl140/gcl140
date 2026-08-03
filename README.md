@@ -1,4 +1,4 @@
-# gift christian
+# hi, i'm gift
 
 *computer science and human centered design student at Dartmouth College*
 
@@ -21,7 +21,11 @@ outside of school i like board games, drumming, soccer, and anime.
 
 ---
 
-## connect
+## let's connect
+
+![Alternative Text](
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXduNG5zeDZ2aXNuN29pZmh3enEwbDR6bmV3YXM3cXlrdXRiMHU2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrD1PQldGsstG/giphy.gif)
+
 
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) 
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
