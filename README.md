@@ -2,9 +2,7 @@
 
 computer science and human centered design student at dartmouth college
 
-github: https://github.com/gcl140
-email: christiangift44@gmail.com
-linkedin: https://www.linkedin.com/in/giftchristian
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcl140) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
 
 ---
 
@@ -21,7 +19,7 @@ outside of school i like board games, drumming, soccer, and anime.
 ## education
 
 dartmouth college, aug 2025 to june 2029
-bachelor of arts in computer science and human centered design
+bachelor of arts in computer science and human centered design, gpa 3.9/4.0
 
 relevant coursework: problem solving via object oriented programming (data structures and algorithms) in java, software design and implementation in c, discrete mathematics, foundations of applied computer science, calculus iii, intro to programming and computation in python
 
@@ -64,6 +62,4 @@ other interests: board games, drumming, soccer, anime
 
 ## connect
 
-github: https://github.com/gcl140
-email: christiangift44@gmail.com
-linkedin: https://www.linkedin.com/in/giftchristian
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcl140) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
