@@ -3,6 +3,11 @@
 *computer science and human centered design student at Dartmouth College*
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
+  <a href="https://github.com/gcl140?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Now-8A2BE2" alt="Projects"></a>
+</p>
+
 ---
 
 ## about me
