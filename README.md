@@ -87,5 +87,6 @@ outside of school i like board games, drumming, soccer, and anime.
 
 ## connect
 
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcl140) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://giftchristian.me)
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) 
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=spaceship)](https://giftchristian.me)
