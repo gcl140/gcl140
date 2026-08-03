@@ -7,7 +7,7 @@
 
 ## about me
 
-i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
+i am a computer science and human centered design student at **Dartmouth College**. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
 i also worked on **sema health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
 
