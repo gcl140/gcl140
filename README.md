@@ -43,8 +43,8 @@ outside of school i like board games, drumming, soccer, and anime.
 
 | company | role | stack | what i did |
 | --- | --- | --- | --- |
-| **evergreen ai**, Dartmouth College | software development intern and project manager | *python, flask-socketio, mysql* | built a data pipeline turning 3 million plus dialogue turns from 200 plus student writers into validated, tagged training data for dartmouth's wellness chatbot. shipped a real time chat tool with structured exports for model training. built a plagiarism detection system using minhash and locality sensitive hashing. designed a red teaming sandbox for testers to probe a chatbot's safety guardrails |
-| **the dartmouth**, america's oldest college newspaper | software development intern | *python, apis* | built a contact resolution platform combining duckduckgo, ldap, and linkedin lookups, helping the outreach team reconnect with 50 plus alumni classes and enrich 1,849 records to 86 percent contact coverage. added checkpoint resumability, deduplication, and api rate limiting so multi hour batch runs recover from failures |
+| **Evergreen AI**, Dartmouth College | Software Development Intern & Project Manager | *Python, Flask-SocketIO, MySQL* | built a data pipeline turning 3 million plus dialogue turns from 200 plus student writers into validated, Big Five tagged training data for Dartmouth's Wellness ChatBot, persisted to a versioned MySQL database. shipped a real time chat tool (Flask-SocketIO) with structured exports for model training. built a plagiarism detection system using MinHash signatures and locality sensitive hashing. designed a red teaming sandbox for testers to probe a chatbot's safety guardrails |
+| **The Dartmouth**, America's Oldest College Newspaper | Software Development Intern | *Python, APIs* | built a contact resolution platform combining DuckDuckGo, LDAP, and LinkedIn lookups, helping the outreach team reconnect with 50 plus alumni classes and enrich 1,849 records to 86 percent contact coverage. added checkpoint resumability, deduplication, and API rate limiting so multi hour batch runs recover from failures |
 
 ---
 
@@ -52,10 +52,10 @@ outside of school i like board games, drumming, soccer, and anime.
 
 | project | stack | what it does |
 | --- | --- | --- |
-| **sema health ai** | *flutter, gemma (mediapipe), onnx runtime, nllb-200, sqlite, openstreetmap* | an offline first health app running an on device language model for private inference with no network needed. includes a yaml defined clinical triage engine that forces mandatory emergency escalation before any ai generated response, and an offline multilingual voice pipeline across 5 languages with a safety guard blocking dosage claims and unlisted medications |
-| **tiny search engine** | *c, bash, make* | a compact search engine with a bfs web crawler, an inverted index, and a querier supporting and/or boolean queries. wrote regression tests across crawler, indexer, and querier to catch integration bugs before deployment |
-| **collaborative graphical editor** | *java, sockets* | a multi client tcp server, thread per client, with a custom message protocol for adding, moving, recoloring, and deleting shapes, server authoritative ids, and full state sync on new client join |
-| **forumabroad** | *python, django, google vertex ai, tailwind css, sql* | a full stack study abroad forum with a 3 level recursive comment model and per user vote and view tracking. integrated a google vertex ai rag assistant auto indexed from forum content, with anti hallucination prompting and cited sources |
+| **Sema Health AI** | *Flutter, Gemma (MediaPipe), ONNX Runtime, NLLB-200, SQLite, OpenStreetMap* | an offline first health app running Gemma on device via MediaPipe for private inference with no network needed. includes a YAML defined clinical triage engine that forces mandatory emergency escalation before any AI generated response, and an offline multilingual voice pipeline (ASR/TTS, NLLB-200 translation, 5 languages) on ONNX Runtime with a safety guard blocking dosage claims and unlisted medications |
+| **Tiny Search Engine** | *C, Bash, Make* | a compact search engine in C with a BFS web crawler, an inverted index, and a querier supporting AND/OR boolean queries. wrote regression tests across crawler, indexer, and querier to catch integration bugs before deployment |
+| **Collaborative Graphical Editor** | *Java, sockets* | a multi client TCP server (thread per client) with a custom message protocol for adding, moving, recoloring, and deleting shapes, server authoritative IDs, and full state sync on new client join |
+| **ForumAbroad** | *Python (Django), Google Vertex AI, Tailwind CSS, SQL* | a full stack study abroad forum with a 3 level recursive comment model and per user vote and view tracking. integrated a Google Vertex AI RAG assistant auto indexed from forum content, with anti hallucination prompting and cited sources |
 
 ---
 
