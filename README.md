@@ -1,13 +1,13 @@
 # gift christian
 
-*computer science and human centered design student at dartmouth college*
+*computer science and human centered design student at Dartmouth College*
 
 
 ---
 
 ## about me
 
-i am a computer science and human centered design student at **dartmouth college**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
+i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
 i also worked on **sema health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
 
@@ -17,7 +17,7 @@ outside of school i like board games, drumming, soccer, and anime.
 
 ## education
 
-**dartmouth college**, aug 2025 to june 2029
+**Dartmouth College**, aug 2025 to june 2029
 *bachelor of arts in computer science and human centered design*, gpa 3.9/4.0
 
 **relevant coursework:** problem solving via object oriented programming (data structures and algorithms) in java, software design and implementation in c, discrete mathematics, foundations of applied computer science, calculus iii, intro to programming and computation in python
@@ -43,7 +43,7 @@ outside of school i like board games, drumming, soccer, and anime.
 
 | company | role | stack | what i did |
 | --- | --- | --- | --- |
-| **evergreen ai**, dartmouth college | software development intern and project manager | *python, flask-socketio, mysql* | built a data pipeline turning 3 million plus dialogue turns from 200 plus student writers into validated, tagged training data for dartmouth's wellness chatbot. shipped a real time chat tool with structured exports for model training. built a plagiarism detection system using minhash and locality sensitive hashing. designed a red teaming sandbox for testers to probe a chatbot's safety guardrails |
+| **evergreen ai**, Dartmouth College | software development intern and project manager | *python, flask-socketio, mysql* | built a data pipeline turning 3 million plus dialogue turns from 200 plus student writers into validated, tagged training data for dartmouth's wellness chatbot. shipped a real time chat tool with structured exports for model training. built a plagiarism detection system using minhash and locality sensitive hashing. designed a red teaming sandbox for testers to probe a chatbot's safety guardrails |
 | **the dartmouth**, america's oldest college newspaper | software development intern | *python, apis* | built a contact resolution platform combining duckduckgo, ldap, and linkedin lookups, helping the outreach team reconnect with 50 plus alumni classes and enrich 1,849 records to 86 percent contact coverage. added checkpoint resumability, deduplication, and api rate limiting so multi hour batch runs recover from failures |
 
 ---
