@@ -17,8 +17,8 @@ outside of school i like board games, drumming, soccer, and anime.
 
 ## education
 
-**Dartmouth College**, aug 2025 to june 2029
-*bachelor of arts in computer science and human centered design*, gpa 3.9/4.0
+**Dartmouth College**, 
+*bachelor of arts in computer science and human centered design*, 
 
 **relevant coursework:** problem solving via object oriented programming (data structures and algorithms) in java, software design and implementation in c, discrete mathematics, foundations of applied computer science, calculus iii, intro to programming and computation in python
 
