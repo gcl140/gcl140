@@ -13,11 +13,20 @@
 
 ## about me
 
-i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
+i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **Evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **The Dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
-i also worked on **sema health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
+i also worked on **Sema Health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
 
 outside of school i like board games, drumming, soccer, and anime.
+
+---
+
+## connect
+
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) 
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=spaceship)](https://giftchristian.me)
+
 
 ---
 
@@ -83,10 +92,3 @@ outside of school i like board games, drumming, soccer, and anime.
   </picture>
 </div>
 
----
-
-## connect
-
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) 
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=spaceship)](https://giftchristian.me)
