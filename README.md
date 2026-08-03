@@ -1,4 +1,4 @@
-# hi, i'm **gift christian**
+# gift christian
 
 *computer science and human centered design student at Dartmouth College*
 
@@ -8,11 +8,12 @@
   <a href="https://github.com/gcl140?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Now-8A2BE2" alt="Projects"></a>
 </p>
 
+
 ---
 
 ## about me
 
-i am a computer science and human centered design student at **Dartmouth College**. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
+i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **the dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
 i also worked on **sema health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
 
@@ -64,6 +65,27 @@ outside of school i like board games, drumming, soccer, and anime.
 
 ---
 
+## github stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gcl140/gcl140/main/github-metrics.svg" alt="metrics" width="100%" />
+</div>
+
+---
+
+## activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcl140/gcl140/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gcl140/gcl140/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gcl140/gcl140/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ## connect
 
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcl140) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiangift44@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giftchristian)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://giftchristian.me)
