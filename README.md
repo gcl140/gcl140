@@ -1,8 +1,5 @@
 # hi, i'm gift
 
-*computer science and human centered design student at Dartmouth College*
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcl140&color=blueviolet" alt="Profile Views">
   <a href="https://github.com/gcl140?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Now-8A2BE2" alt="Projects"></a>
@@ -13,7 +10,7 @@
 
 ## about me
 
-i am a computer science and human centered design student at **Dartmouth College**, class of 2029. i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **Evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **The Dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
+i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **Evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **The Dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
 i also worked on **Sema Health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
 
