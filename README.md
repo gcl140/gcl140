@@ -51,35 +51,6 @@ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXduNG5zeDZ2aXNuN29pZmh3enEwbD
 | data & ml | ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | tools | ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![vscode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![conda](https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![tailscale](https://img.shields.io/badge/tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white) |
 
-**other interests:** board games, drumming, soccer, anime
-
----
-
-## experience
-
-| company | role | stack | what i did |
-| --- | --- | --- | --- |
-| **Evergreen AI**, Dartmouth College | Software Development Intern & Project Manager | *Python, Flask-SocketIO, MySQL* | <ul><li>built a data pipeline turning 3 million plus dialogue turns from 200 plus student writers into validated, Big Five tagged training data for Dartmouth's Wellness ChatBot, persisted to a versioned MySQL database</li><li>shipped a real time chat tool (Flask-SocketIO) with structured exports for model training</li><li>built a plagiarism detection system using MinHash signatures and locality sensitive hashing</li><li>designed a red teaming sandbox for testers to probe a chatbot's safety guardrails</li></ul> |
-| **The Dartmouth**, America's Oldest College Newspaper | Software Development Intern | *Python, APIs* | <ul><li>built a contact resolution platform combining DuckDuckGo, LDAP, and LinkedIn lookups, helping the outreach team reconnect with 50 plus alumni classes and enrich 1,849 records to 86 percent contact coverage</li><li>added checkpoint resumability, deduplication, and API rate limiting so multi hour batch runs recover from failures</li></ul> |
-
----
-
-## projects
-
-| project | stack | what it does |
-| --- | --- | --- |
-| **Sema Health AI** | *Flutter, Gemma (MediaPipe), ONNX Runtime, NLLB-200, SQLite, OpenStreetMap* | <ul><li>an offline first health app running Gemma on device via MediaPipe for private inference with no network needed</li><li>a YAML defined clinical triage engine that forces mandatory emergency escalation before any AI generated response</li><li>an offline multilingual voice pipeline (ASR/TTS, NLLB-200 translation, 5 languages) on ONNX Runtime with a safety guard blocking dosage claims and unlisted medications</li></ul> |
-| **Tiny Search Engine** | *C, Bash, Make* | <ul><li>a compact search engine in C with a BFS web crawler, an inverted index, and a querier supporting AND/OR boolean queries</li><li>wrote regression tests across crawler, indexer, and querier to catch integration bugs before deployment</li></ul> |
-| **Collaborative Graphical Editor** | *Java, sockets* | <ul><li>a multi client TCP server (thread per client) with a custom message protocol for adding, moving, recoloring, and deleting shapes, server authoritative IDs, and full state sync on new client join</li></ul> |
-| **ForumAbroad** | *Python (Django), Google Vertex AI, Tailwind CSS, SQL* | <ul><li>a full stack study abroad forum with a 3 level recursive comment model and per user vote and view tracking</li><li>integrated a Google Vertex AI RAG assistant auto indexed from forum content, with anti hallucination prompting and cited sources</li></ul> |
-
----
-
-## github stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gcl140/gcl140/main/github-metrics.svg" alt="metrics" width="100%" />
-</div>
 
 ---
 
