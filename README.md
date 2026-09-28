@@ -12,9 +12,7 @@
 
 i like building backend systems, data pipelines, and practical ai tools. right now i am a **software development intern** at **Evergreen ai**, where i work on data pipelines and safety tooling for a wellness chatbot, and a **software development intern** at **The Dartmouth**, the college newspaper, where i built a contact resolution platform for the outreach team.
 
-i also worked on **Sema Health**, an offline first health app that runs an on device language model for multilingual healthcare access. it won the *ai in the physical world award* at technigala 2026 from the dali lab, with a grant for further development.
-
-outside of school i like board games, drumming, soccer, and anime.
+outside of school i like drumming and soccer (watch and play)
 
 ---
 
@@ -36,9 +34,9 @@ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXduNG5zeDZ2aXNuN29pZmh3enEwbD
 **Dartmouth College**, 
 *bachelor of arts in computer science and human centered design*, 
 
-**relevant coursework:** problem solving via object oriented programming (data structures and algorithms) in java, software design and implementation in c, discrete mathematics, foundations of applied computer science, calculus iii, intro to programming and computation in python
+**relevant coursework:** problem solving via object oriented programming (data structures and algorithms) in java, software design and implementation in c, discrete mathematics, foundations of applied computer science, intro to programming and computation in python
 
-**activities:** colorstack chapter at dartmouth (first year representative and treasurer), healthx lab (ml research), codepath, first-gen office (stem academic fellow, member)
+**activities:** ColorStack, CodePath, AWS Student Builder Group Leader, Computer Science Department (Teaching Assistant)
 
 ---
 
